@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="254db6c2">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="9574c19">
+        <description>Created after removal of "User Guide (basic)" from Help Instance</description>
+        <accepts>basic.html</accepts>
+    </rule>
+    <rule id="39cc2003">
+        <description>Created after removal of "Jitsi Meet" from Help Instance</description>
+        <accepts>cover.html</accepts>
+    </rule>
+    <rule id="9ee5dda">
+        <description>Created after removal of "Jisti Documentation" from Help Instance</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="4de4df3">
+        <description>Created after removal of "Hosted" from Help Instance</description>
+        <accepts>Hosted.html</accepts>
+    </rule>
+</rules>
